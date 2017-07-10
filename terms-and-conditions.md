@@ -1,4 +1,4 @@
-Terms & Conditions
+# Terms & Conditions
 
 Last Updated: July, 7th 2017
 
@@ -12,7 +12,7 @@ This Site is offered and available to users who are 13 years of age or older. If
 
 Our Customer Support team is available 24/7 if you have any questions regarding the Site or Terms of Service. Contacting our Customer Support team can be performed by submitting a request here.
 
-Key Terms
+# Key Terms
 Products are services offered on Alphabit.
 Sellers are users who offer and perform services through Products on Alphabit.
 Buyers are users who purchase services on Alphabit.
@@ -29,7 +29,7 @@ Sales Balance is cleared revenue from completed orders for sellers to withdraw o
 Shopping Balance is shopping credit collected from cancelled orders or Alphabit promotions to be used for purchasing Products.
  
 
-Overview (Main terms, in a nutshell)
+# Overview (Main terms, in a nutshell)
 Only registered users may buy and sell on Alphabit. Registration is free. Products on Alphabit may be offered at a base starting price of $0. Most Products are offered at a base price of more than $0 as determined by the seller. Buyers pay Alphabit in advance to create an order. Orders are purchased through the Order button found on a seller’s Product page or through a Custom Offer.
 
 Sellers must fulfill their orders, and may not cancel orders on a regular basis or without cause. Cancelling orders will affect sellers’ reputation and status. Sellers gain account statuses (Levels) based on their performance and reputation. Advanced levels provide their owners with benefits, including offering services for higher prices through Product Extras, or selling their Product in multiples.
@@ -38,14 +38,14 @@ Users may not offer or accept payments using any method other than placing an or
 
 Note: some Products charge additional payments (through Product Extras) for Commercial Use License. Alphabit retains the right to use all published delivered works for Alphabit marketing and promotion purposes. The Privacy Policy is a part of these Terms of Service and incorporated herein by reference.
 
-Sellers Basics
+# Sellers Basics
 Sellers create Products on Alphabit to allow buyers to purchase their services. Sellers may also offer Custom Offers to buyers in addition to their Products. Each order you sell and successfully complete, accredits your account with a net revenue of 90% of the purchase amount. Alphabit accredits sellers once an order is completed. If an order is cancelled (for any reason), the funds paid will be refunded to the buyer’s Shopping Balance. Revenues are only made available for withdrawal from the Revenue page following a safety clearance period of 14 days after the order is marked as complete.
 
 Top Rated Sellers are eligible to withdraw revenue following a safety clearance period of 7 days after the order is marked as complete. Sellers may withdraw their revenues using one of Alphabit’s withdrawal options.The seller’s rating is calculated based on the order reviews posted by buyers. High ratings allow sellers to obtain advanced seller levels.
 
 For security concerns, Alphabit may temporarily disable a seller’s ability to withdraw revenue to prevent fraudulent or illicit activity. This may come as a result of security issues, improper behavior reported by buyers, or associating multiple Alphabit accounts to a single withdrawal provider.
 
-Products
+# Products
 Sellers are allowed to post a select amount of active Products based on their Level status. 7 Products for sellers without a Level status. 15 Products for Level 1 sellers. 20 Products for Level 2 sellers. 30 Products for Top Rated sellers. Products created on Alphabit are User Generated Content. Products may be removed by Alphabit for violations to these Terms of Service, which may include (but are not limited to) the following violations and/or materials:
 
 Illegal or Fraudulent services, Copyright Infringement, Trademark Infringement, and violation of a third party’s terms of service reported through our Intellectual Property Claims Policy.
@@ -61,7 +61,7 @@ Products may contain an approved Product Video uploaded through the Product mana
 Statements on the Product Page that undermine or circumvent these Terms of Service is prohibited.
 Eligible Products and sellers may price their Products at a base price beyond $0.
 Eligible Products in select Categories may set up Product Packages to offer their services in structured formats with multiple price points for the selected Product.
-Product Extras
+# Product Extras
 Product Extras are additional services offered on top of the Seller’s Product for an additional price defined by the Seller.
 
 Product Extras may be removed for violations of our Terms of Service. For specific terms, please see the Products section above for a list of services that violate our Terms of Service. Products are subject to be removed due to violations found in Product Extras.The amount of Product Extras, which can be offered, and the price for each Product Extra, is based on your seller Level.
@@ -69,27 +69,27 @@ Product Extras may be removed for violations of our Terms of Service. For specif
 Services offered through Product Extras must be related to the base service and part of the deliverables on the order.
 Product Extras may cover different categories of services that are components to a higher quality delivered service.
 Sellers have the option to extend the duration of an order for each Product Extra that is added to the order. This is to cover the time needed to complete the extra service.
-Levels
+# Levels
 Alphabit is all about helping sellers leverage their skills. We seek to empower top performing sellers with helpful tools to grow their business. Sellers who invest in self-promotion may achieve greater customer satisfaction. And, if they deliver on time and maintain high quality and ratings, Alphabit may reward them with new statuses, special opportunities, benefits, and tools that come with it.
 
 Alphabit sellers can gain account Levels based on their activity, performance and reputation. The advancement criteria can be found here.Advancement in Levels are updated periodically by an automated system.The current Levels a seller can achieve are, Level 1, 2, and Top Rated.
 
 Sellers who cannot maintain their high quality service, experience a severe drop in ratings, or stop delivering on time risk losing their seller status and the benefits that come with it. For example, late deliveries, warnings to the seller’s account and cancellations can cause a seller to move to a different Level.Advanced levels provide their owners with additional benefits, including offering Products for higher prices through Product Extras, or selling their Product in multiples.
 
-Top Rated Sellers
+# Top Rated Sellers
 Top Rated Sellers are chosen manually by Alphabit editors through an ongoing review process based on seniority, volume of sales, extremely high ratings, exceptional customer care, high order completion rate and community leadership. Top Rated Sellers gain access to more extensive features than previous levels, including exclusive access to beta features and VIP support.
 
 Top Rated eligibility is constantly evaluated by Alphabit to ensure that the quality standards and expectations of the Top Rated selection is kept. Top Rated Sellers who cannot maintain their high quality service through a severe drop in ratings, stop delivering on time, increased cancellation rate or violate our Terms of Service risk losing their Top Rated status and the benefits that come with it.
 
-Pro Sellers
+# Pro Sellers
 Pro Sellers are pre-verified professionals who undergo a vetting process by Alphabit editors. Applying for Alphabit Pro is open to everyone: professional freelancers who are new to Alphabit, as well as existing Alphabit sellers.
 
 Pro Sellers eligibility is constantly evaluated by Alphabit to ensure that the quality standards and expectations of the Pro Seller selection is kept. Pro Sellers who cannot maintain their high quality service through a severe drop in ratings, stop delivering on time, increased cancellation rate or violate our Terms of Service risk losing their Pro status and the benefits that come with it.
 
-Seller Features
+# Seller Features
 Alphabit sellers have access to several exclusive features that help customize the way their services can be offered.
 
-Custom Offer
+# Custom Offer
 Sellers can also send Custom Offers addressing specific requirements of a buyer.Custom Offers are defined by the seller with the exact description of the service, the price and the time expected to deliver the service.
 
 Custom Offers are sent from the conversation page.Services provided through Custom Offers may not violate Alphabit’s Terms of Service.
@@ -99,7 +99,7 @@ Alphabit Anywhere is a feature that allows sellers to send Custom Offers outside
 
 Sellers are required to deliver proof of completion of services in the order page. Please see our Orders section for further details. Communication for handling orders should be performed on Alphabit, through the order page. Users who engage and communicate off of Alphabit will not be protected by our Terms of Service.
 
-Shipping Physical Deliverables
+# Shipping Physical Deliverables
 Some of the services on Alphabit are delivered physically (arts and crafts, collectable items, etc.). For these types of Products, sellers may decide to add shipping charges. Sellers can add shipping charges for local shipping (within the same country) and for international shipping (anywhere else).
 
 Products that include shipping costs must have physical deliverables sent to Buyers.
@@ -112,7 +112,7 @@ Revenues are only made available for withdrawal from the Revenue page following 
 
 Withdrawal fees vary depending on the withdrawal method.Withdrawals are final and cannot be undone. We will not be able to refund or change this process once it has begun.
 
-Withdrawal Methods
+# Withdrawal Methods
 METHOD FEE SERVICE AVAILABILITY
 Withdraw withy our BITCOIN ADDRESS. Request withdraw to BTC Address. $0 per transfer, must pay the required Bitcoin transaction fee.
 Withdraw to your PayPal Account 2% of the sum withdrawal amount up to $1*
@@ -122,14 +122,14 @@ Worldwide
 Direct Deposit (ACH) $1 per transfer. US only*
 *Additional fees may apply based on your location and currency.
 
-Buyers Basics
+# Buyers Basics
 You may not offer direct payments to sellers using payment systems outside of the Alphabit Order system.
 
 Alphabit retains the right to use all publically published delivered works for Alphabit marketing and promotional purposes.
 
 Buyers may request a specific service from the Post a Request feature found from the Shopping dashboard. Services requested on Alphabit must be an allowed service on Alphabit. Please click here for guidelines on approved services.
 
-Purchasing
+# Purchasing
 Buyers pay Alphabit to create an order from a seller’s Product page or Custom Offer, using the Pay Now button.
 
 In addition buyers can request a Custom Order which addresses specific buyer requirements, and receive a Custom Offer from sellers through the site or through Alphabit Anywhere.
@@ -140,10 +140,10 @@ Processing fees are added at the time of purchase where a buyer can review and a
 
 If you have funds in your account balance, either from your Shopping or available Revenue balance, it will be automatically applied to your next purchase.You may not offer sellers to pay, or make payment using any method other than through the Alphabit.co site. In case you have been asked to use an alternative payment method, please report it immediately to Customer Support.To protect against fraud, unauthorized transactions (such as money laundering), claims or other liabilities, we do not collect credit information; but allow our payment vendors to collect information for the purpose of collecting payments from buyers on the Site or transferring payments to sellers on the Site. We are not exposed to the payment information provided to our payment vendors, and this information is subject to the privacy policy applicable to the payment vendor. Please see our Privacy Policy for more information here.
 
-VAT
+# VAT
 This paragraph only applies to buyers located in Israel: Israeli buyers will not be allowed to purchase or sell Products. This is due to current regulations.
 
-Orders Basics
+# Orders Basics
 Once payment is confirmed, your order will be created and given a unique Alphabit order number (#FO).
 
 Sellers must deliver completed files and/or proof of work using the Deliver Work button (located on the Order page) according to the service that was purchased and advertised on their Product.
@@ -154,7 +154,7 @@ An order is marked as complete after the order is marked as Delivered and then r
 
 We encourage our buyers and sellers to try and settle conflicts amongst themselves. If for any reason this fails after using the Resolution Center or if you encounter non-permitted usage on the Site, users can contact Alphabit’s Customer Support department for assistance here.
 
-Handling Orders
+# Handling Orders
 When a buyer orders a Product, the seller is notified by email as well as notifications on the site while logged into the account.
 
 Sellers are required to meet the delivery time they specified when creating their Products. Failing to do so will allow the buyer to cancel the order when an order is marked as late and may harm the seller’s status.Sellers must send completed files and/or proof of work using the Deliver Completed Work button (located on the Order page) to mark the order as Delivered.
@@ -163,7 +163,7 @@ Users are responsible for scanning all transferred files for viruses and malware
 
 However, this will have a negative effect on the seller’s status.Buyers may use the “Request Revisions” feature located on the Order page while an order is marked as Delivered if the delivered materials do not match the seller’s description on their Product page or they do not match the requirements sent to the seller at the beginning of the order process.
 
-Reviews
+# Reviews
 Feedback reviews provided by buyers while completing an order are an essential part of Alphabit’s rating system. Reviews demonstrate the buyer’s overall experience with the sellers and their service. Buyers are encouraged to communicate to the seller any concerns experienced during their active order in regards to the service provided by the seller.
 
 Leaving a buyer’s feedback is a basic prerogative of a buyer. Feedback reviews will not be removed unless there are clear violations to our Terms of Service.To prevent any misuse of our Feedback system, all feedback reviews must come from legitimate sales executed exclusively through the Alphabit platform from users within our Community. Purchases arranged, determined to artificially enhance seller ratings, or to abuse the Alphabit platform with purchases from additional accounts, will result in a permanent suspension of all related accounts.
@@ -179,7 +179,7 @@ Sellers may not solicit the removal of feedback reviews from their buyers throug
 Disputes and Cancellations
 We encourage our buyers and sellers to try and settle conflicts amongst themselves. If for any reason this fails after using the Resolution Center or if you encounter non-permitted usage on the Site, users can contact Alphabit’s Customer Support department.
 
-Basics:
+# Basics:
 
 Order cancellations can be performed on Alphabit, when eligible, by Customer Support or through the Resolution Center per order.
 
@@ -193,7 +193,7 @@ If an order is cancelled (for any reason), the funds paid will be refunded to th
 
 Requests for revisions can be performed through the Order page while the order is marked as Delivered.Requesting to gain more services from sellers beyond the agreed requirements by using the Request Revisions button is not allowed.
 
-Order Cancellations
+# Order Cancellations
 Alphabit encourages Buyers and Sellers to resolve service disputes mutually using the Resolution Center.
 
 Eligibility for requests to Alphabit to cancel an order will be assessed by our Customer Support team based on a number of factors, including violations to our Terms of Service, general misconduct, and improper usage of the Alphabit delivery system. See below for Order specific eligibility.
@@ -206,7 +206,7 @@ Buyers must use Alphabit Resolution Center to address their concerns and desired
 
 Any non-permitted usage of Alphabit encountered during an Order, after being reviewed by our Customer Support team, may result in the order being cancelled. This includes, but not limited to; harassment, unlawful behavior, or other violations to Alphabit’s Terms of Service.
 
-Alphabit Customer Support will cancel orders based on, but not limited to, the following reasons:
+# Alphabit Customer Support will cancel orders based on, but not limited to, the following reasons:
 
 Active orders (after the buyer submits their requirements and before the seller delivers on Alphabit)The seller is late and unresponsive for more than 24 hours while the order is marked as Late.
 Users are abusive towards the other party through threats of low ratings or leveraging order materials (such as logins, personal information) against each other.
@@ -227,20 +227,20 @@ Note: Terms of Commercial use is found on the seller’s Product page and cannot
 Alphabit Customer Support will review cases of Order delivery manipulation that prevents buyers and sellers from fully utilizing our Resolution Center that enabled the order to be marked as complete.
  
 
-Refunds
+# Refunds
 Alphabit does not automatically refund payments made for cancelled orders back to your payment provider. Funds from order cancellations are refunded to the buyer’s balance as credit and are available for future purchases on Alphabit. Funds returned to your balance from cancelled orders will not include processing fees paid.
 
 Deposit refunds, when available from the payment provider, can be performed by our Customer Support team. To prevent fraud and abuse, we limit the total amount of times users can request a payment provider refund from their account which is subject to review by our Customer Support team. Such refunds may be subject to an additional fee. If any processing fees were added at the time of purchase to create a new order, the processing fees from that payment will not be refunded along with your deposit.
 
-User Conduct And Protection
+# User Conduct And Protection
 Alphabit enables people around the world to create, share, sell and purchase nearly any service they need. Services offered on Alphabit reflect the diversity of an expanding Product economy. Members of the Alphabit comunity communicate and engage through orders, social media, and on Alphabit’s Community
 
-Forums
+# Forums
 Alphabit maintains a friendly, community spirited, and professional environment. Users should keep to that spirit while participating in any activity or extensions of Alphabit. This section relates to the expected conduct users should adhere to while interacting with each other on Alphabit.
 
 To report a violation of our Terms of Service, User Misconduct, or inquiries regarding your account, please contact our Customer Support team.
 
-Basics
+# Basics
 
 To protect our users’ privacy, user identities are kept anonymous. Requesting or providing Email addresses, Skype/IM usernames, telephone numbers or any other personal contact details to communicate outside of Alphabit in order to circumvent or abuse the Alphabit messaging system or Alphabit platform is not permitted.
 
@@ -256,23 +256,23 @@ Rude, abusive, improper language, or violent messages sent to users will not be 
 
 The Alphabit marketplace is open to everyone. Discrimination against a community member based on gender, race, age, religious affiliation, sexual preference or otherwise is not acceptable and may result in the suspension/removal of your account.
 
-Orders
+# Orders
 Users with the intention to defame competing sellers by ordering from competing services will have their reviews removed or further account status related actions determined by review by our Trust & Safety team.Users are to refrain from spamming or soliciting previous Buyers or Sellers to pursue removing/modifying reviews or cancelling orders that do not align on Order Cancellation or Feedback policies.
 
 Alphabit reviews cases of payment provider chargebacks and disputes on behalf of sellers. Although results vary per case due to each chargeback reason, we work hard on resolving disputes in the seller’s favor. If the chargeback case allows, Alphabit will return parts or full revenue back to sellers.
 
-Products
+# Products
 Users may report Products to Customer Support that may be in violation of Alphabit’s Terms of Service based on the reported Product’s replicated similarity to pre-existing services (copycat Products).
 
 Alphabit will respond to clear and complete notices of alleged copyright or trademark infringement.
 
-Reporting Violations
+# Reporting Violations
 If you come across any content that may violate our Terms of Service, you should report it to us through the appropriate channels created to handle those issues as outlined in our Terms of Service. All cases are reviewed by our Trust & Safety team. To protect individual privacy, the results of the investigation are not shared.
 
-Violations
+# Violations
 Users may receive a warning to their account for violations of our Terms of Service or any user misconduct reported to our Trust and Safety team. A warning will be sent to the user’s email address and will be displayed for such user on the Site. Warnings do not limit account activity, but can lead to your account losing seller statuses or becoming permanently disabled based on the severity of the violation.
 
-Non-Permitted Usage
+# Non-Permitted Usage
 Adult Services & Pornography – Alphabit does not allow any exchange of adult oriented or pornographic materials and services.
 
 Inappropriate Behavior & Language – Communication on Alphabit should be friendly, constructive, and professional. Alphabit condemns bullying, harassment, and hate speech towards others. We allow users a medium for which messages are exchanged between individuals, a system to rate orders, and to engage on larger platforms such as our Community Forum and Social Media pages.
@@ -287,15 +287,15 @@ Fraud / Unlawful Use – You may not use Alphabit for any unlawful purposes or t
 
  
 
-Abuse and Spam
+# Abuse and Spam
 Multiple Accounts – To prevent fraud and abuse, users are limited to one active account. Any additional account determined to be created to circumvent guidelines, promote competitive advantages, or mislead the Alphabit comunity will be disabled. Mass account creation may result in disabling of all related accounts.
 Note: any violations to Alphabit’s Terms of Service is cause for permanent suspension of all accounts.
 
 Targeted Abuse – We do not tolerate users who engage in targeted abuse or harassment towards other users on Alphabit. This includes creating new multiple accounts to harass members through our message or ordering system.
 
-Selling Accounts – You may not buy or sell Alphabit accounts.
+# Selling Accounts – You may not buy or sell Alphabit accounts.
 
-General Terms
+# General Terms
 Alphabit reserves the right to put any account on hold or permanently disable accounts due to breach of these terms of service or due to any illegal or inappropriate use of the Site or services.
 
 Violation of Alphabit’s Terms of Service may get your account disabled permanently.Users with disabled accounts will not be able to sell or buy on Alphabit.
@@ -316,7 +316,7 @@ You understand and agree that if you use Alphabit after the date on which the Te
 
  
 
-User Generated Content
+# User Generated Content
 User Generated Content (“UGC”) refers to the content added by users as opposed to content created by the Site. All content uploaded to Alphabit by our users (Buyers and Sellers) is User Generated Content. Alphabit does not check user uploaded/created content for appropriateness, violations of copyright, trademarks, other rights or violations. We invite everyone to report violations together with proof of ownership as appropriate. Reported violating content may be removed or disabled.
 
 Furthermore, Alphabit is not responsible for the content, quality or the level of service provided by the Sellers. We provide no warranty with respect to the Products, their delivery, and any communications between buyers and sellers. We encourage users to take advantage of our rating system, our community and common sense in choosing appropriate Products service offers.
@@ -326,7 +326,7 @@ By offering a service, the seller undertakes that he/she has sufficient permissi
 For specific terms related to Intellectual Property rights and for reporting claims of copyright infringement (DMCA notices) or trademark infringement.
 Note that it is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
 
-Ownership
+# Ownership
 Ownership and limitations: Unless clearly stated otherwise on the seller’s Product page/description, when the work is delivered, and subject to payment, the buyer is granted all intellectual property rights, including but not limited to, copyrights for the work delivered from the seller, and the seller waives any and all moral rights therein. The delivered work shall be considered work-for-hire under the U.S. Copyright Act. In the event the delivered work does not meet the requirements of work-for-hire or when US Copyright Act does not apply, the seller expressly agrees to assign to buyer the copyright in the delivered work. All transfer and assignment of intellectual property to buyer shall be subject to full payment for the Product and the delivery may not be used if payment is cancelled for any reason. For removal of doubt, in custom created work (such as art work, design work, report generation etc.), the delivered work shall be the exclusive property of buyer, and seller assigns all rights, title and interest in the delivered work. Some Products (including for custom created work) charge additional payments (through Product Extras) for a Commercial Use License. This means that if you purchase the Product for personal use, you will own all rights you require for such use, and will not need the Commercial Use License. If you intend to use it for any charge or other consideration, or for any purpose that is directly or indirectly in connection with any business, or other undertaking intended for profit, you will need to buy the Commercial Use License through a Product Extra and will have broader rights that cover your business use.
 
 For Voice Over Products, when the work is delivered, and subject to payment, the buyer is purchasing basic rights, (which means the buyer is paying a one time fee allowing them to use the work forever and for any purpose except for commercials, radio, television and internet commercial spots). If you intend to use the Voice Over to promote a product and/or service (with the exception of paid marketing channels), you will need to purchase the Commercial Rights (Buy-Out) through Product Extra. If you intend to use the Voice Over in radio, television and internet commercials, you will need to purchase the Full Broadcast Rights (Buy-Out) through Product Extra.
@@ -335,7 +335,7 @@ Sellers further confirm that whatever information they receive from the buyer, w
 
 Furthermore, users (both buyers and sellers) agree that unless they explicitly indicate otherwise, the content users voluntarily create/upload to Alphabit, including Product texts, photos, videos, usernames, user photos, user videos and any other information, including the display of delivered work, may be used by Alphabit for no consideration for marketing and/or other purposes.
 
-Voice Over Commercial Buy-Out
+# Voice Over Commercial Buy-Out
 When purchasing a Voice Over Product, the Seller grants you a perpetual, exclusive, non-transferable, worldwide license to use the purchased Voice Over (except for commercials, radio, television and internet commercial spots).
 
 By purchasing a Commercial Rights (Buy-Out) with your order, in addition to the basic rights, the Seller grants you with a license to use the Voice Over for any corporate, promotional and non-broadcast purposes. Corporate, promotional and non-broadcast purposes means any business related use for the creation of, or to promote a for-product profit or service (with the exception of paid marketing channels), such as (by way of example): explainer videos posted to company websites, social networks or email campaigns, audiobooks, podcast intros, and strictly excludes any illegal, immoral or defamatory purpose.
@@ -344,10 +344,10 @@ By purchasing a Full Broadcast Rights (Buy-Out) with your order, in addition to 
 
 This Buy-Out is subject to Alphabit’s Terms of Service. There is no warranty, express or implied, with the purchase of this delivery, including with respect to fitness for a particular purpose. Neither the Seller nor Alphabit will be liable for any claims, or incidental, consequential or other damages arising out of this license, the delivery or your use of the delivery.
 
-Commercial Use License
+# Commercial Use License
 By purchasing a “Commercial Use License” with your order, the Seller grants you a perpetual, exclusive, non-transferable, worldwide license to use the purchased delivery for Permitted Commercial Purposes. All intellectual property rights of the purchased delivery are hereby assigned to you. “Permitted Commercial Purposes” means any business related use, such as (by way of example) advertising, promotion, creating web pages, integration into product, software or other business related tools etc., and strictly excludes any illegal, immoral or defamatory purpose. This License is subject to Alphabit’s Terms of Service. There is no warranty, express or implied, with the purchase of this delivery, including with respect to fitness for a particular purpose. Neither the Seller nor Alphabit will be liable for any claims, or incidental, consequential or other damages arising out of this license, the delivery or your use of the delivery.
 
-Disclaimer of Warranties
+# Disclaimer of Warranties
 YOUR USE OF THE SITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE IS AT YOUR OWN RISK. THE SITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER Alphabit NOR ANY PERSON ASSOCIATED WITH Alphabit MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE WEBSITE.
 
 THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
@@ -361,6 +361,7 @@ The official text is the English version of the website. Any discrepancies or di
 
  
 
-Limitation on Liability
+# Limitation on Liability
 IN NO EVENT WILL Alphabit, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.
+
 THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
